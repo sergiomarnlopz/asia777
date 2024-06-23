@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://asia777.arxman.com/sitemap.xml
